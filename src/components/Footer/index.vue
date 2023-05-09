@@ -8,7 +8,7 @@
       <!-- 以下信息请不要修改哦 -->
       <span class="hidden"
         >&nbsp;&amp;&nbsp;Made&nbsp;by&nbsp;imsyy</span
-      >&nbsp;&amp;
+      >
       <!-- 站点备案 -->
     
     </div>
