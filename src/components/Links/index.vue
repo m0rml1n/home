@@ -60,8 +60,8 @@ let linksData = [
   },
   {
     icon: Compass,
-    name: "空白页",
-    link: "about:blank",
+    name: "图床",
+    link: "https://tu.nai.si/",
   },
  {
     icon: CompactDisc,
